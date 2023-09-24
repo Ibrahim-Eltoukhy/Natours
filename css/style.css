@@ -6,7 +6,9 @@ Medium green: #55c57a
 Dark green: #28b485
 
 */
-
+html {
+  scroll-behavior: smooth;
+}
 * {
   padding: 0;
   margin: 0;
